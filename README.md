@@ -8,3 +8,4 @@ SE PIDE: escribir el mismo ejemplo pero siguiendo la siguiente  estructura MVVM
 
 <img width="209" height="164" alt="image" src="https://github.com/user-attachments/assets/27e059c8-a1b3-407e-bb3e-d9e56ee64aa1" />
 
+Por otro lado, también se pide que además de la matriz, se muestre constantemente la hora actual
